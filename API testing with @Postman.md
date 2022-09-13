@@ -111,3 +111,6 @@ In HTTP there are five methods that are commonly used in a REST-based Architectu
 
     ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rartkv426m3gl46hx60p.png)
 
+With this I am ending the brief overview about APIs and HTTP methods and about Postman. I hope that you might takeaway something from this blog and implement it in your work.
+
+Special thanks to @ialimustufa , Devtown and Postman Student Committee for organizing such an informative workshop on APIs and Postman.
